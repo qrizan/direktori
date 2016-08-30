@@ -129,7 +129,7 @@ R
 
 * Rezha Julio ([@kimiamania](http://twitter.com/kimiamania))
 * Ridho Adya Pangestu ([github](http://github.com/ridhoadya), [linkedin](http://www.linkedin.com/in/ridhoadya))
-
+* Taufiq Rizan Hasbi ([github](http://github.com/qrizan))
 S
 -
 
